@@ -1,0 +1,13 @@
+# Archivos de configuración de PyCharm (No subir)
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Archivos compilados de Python (Se generan solos, no subir)
+__pycache__/
+*.py[cod]
+
+# Entornos virtuales
+venv/
+.env
