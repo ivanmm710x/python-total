@@ -1,28 +1,17 @@
-# 🐍 Mi Camino en Python: De Cero a Experto
+# 🐍 Curso Python Total - Mi Progreso (En curso)
 
-Este repositorio documenta mi progreso diario en el curso "Python TOTAL" de Federico Garay.
-Aquí encontrarás mis ejercicios de práctica y los proyectos que consolidan cada tema.
+Bienvenido a mi repositorio de aprendizaje. Aquí documento mi progreso diario asimilando los fundamentos de Python. Este espacio funciona como mi "cuaderno de apuntes" en código, donde registro la teoría, la sintaxis y los ejercicios de lógica a lo largo de los **16 días** que estructuran el curso.
 
-## 🏆 Portafolio de Proyectos (Día a Día)
+## 📚 Índice de Lecciones 
 
-| Día    | Tema Principal | Proyecto                                             | Aprendizaje Clave |
-|:-------| :--- |:-----------------------------------------------------| :--- |
-| **01** | Input/Output | [Generador de Nombres](./dia_01/Cerveza.py)          | Manejo de cadenas y entrada de usuario. |
-| **02** | Variables | [Calculadora de Comisiones](./dia_02/proyecto_02.py) | Operadores matemáticos y conversión de tipos. |
-| **03** | ... | ...                                                  | ... |
-| ...    | ... | ...                                                  | ... |
-| ...    | ... | ...                                                  | ... |
-| ...    | ... | ...                                                  | ... |
-| ...    | ... | ...                                                  | ... |
-| ...    | ... | ...                                                  | ... |
-| ...    | ... | ...                                                  | ... |
-| ...    | ... | ...                                                  | ... |
-| ...    | ... | ...                                                  | ... |
-| ...    | ... | ...                                                  | ... |
-| ...    | ... | ...                                                  | ... |
-| ...    | ... | ...                                                  | ... |
-| ...    | ... | ...                                                  | ... |
-| ...    | ... | ...                                                  | ... |
+Registro de los módulos completados hasta el momento *(Progreso actual: Día 6 de 16)*:
 
----
-*Repositorio creado como parte de mi formación como Desarrollador Python.*
+| Día | Conceptos Técnicos Dominados | Código |
+| :---: | :--- | :---: |
+| **01** | Fundamentos, Sintaxis y Consola (Print, Input, Strings) | [📂 Ver apuntes](dia_01/) |
+| **02** | Variables, Tipos de Datos y Operaciones Matemáticas | [📂 Ver apuntes](dia_02/) |
+| **03** | Estructuras de Datos (Listas, Diccionarios, Tuplas, Sets) y Métodos | [📂 Ver apuntes](dia_03/) |
+| **04** | Control de Flujo, Bucles (For/While) y Operadores Lógicos | [📂 Ver apuntes](dia_04/) |
+| **05** | Creación y Arquitectura de Funciones (Def, Return, Args, Kwargs) | [📂 Ver apuntes](dia_05/) |
+| **06** | Manipulación de Archivos y Rutas (Pathlib, OS, I/O de archivos) | [📂 Ver apuntes](dia_06/) |
+| **07-16** | *Desbloqueando nuevos conocimientos...* | ⏳ Pendiente |
